@@ -2,9 +2,9 @@
 **Version:1.0**
 
 **Features**
-* reset button
-* timer to allow the mole to move around
-* indicator for hits and misses
+* Reset button
+* Timer to allow the mole to move around
+* Indicator for hits and misses
 
 **Tools used in this project**
 * Canvas
@@ -14,6 +14,6 @@
 
 **How to use the source files**
 * Go in to the source folder and download the aia file
-* go to [MIT App Inventor](https://ai2.appinventor.mit.edu/#4928864299057152)
-* press the import project button next to the New Project button
-* insert the aia file
+* Go to [MIT App Inventor](https://ai2.appinventor.mit.edu/#4928864299057152)
+* Press the import project button next to the New Project button
+* Insert the aia file
