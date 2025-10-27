@@ -12,3 +12,5 @@
 **How to use the source files**
 * Go in to the source folder and download the aia file
 * go to [MIT App Inventor](https://ai2.appinventor.mit.edu/#4928864299057152)
+* press the import project button next to the New Project button
+* insert the aia file
