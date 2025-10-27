@@ -1,5 +1,7 @@
 # Mole_Mash
 **Version:1.0**
+
+**Features**
 * touch detection
 * timer to allow the mole to move around
 
