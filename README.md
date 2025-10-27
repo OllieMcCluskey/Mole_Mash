@@ -2,8 +2,9 @@
 **Version:1.0**
 
 **Features**
-* touch detection
+* reset button
 * timer to allow the mole to move around
+* indicator for hits and misses
 
 **Tools used in this project**
 * Canvas
