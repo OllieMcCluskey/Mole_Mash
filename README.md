@@ -2,8 +2,11 @@
 **Version:1.0**
 
 **Features**
-* touch detection
+* reset button
 * timer to allow the mole to move around
+* win/lose screen
+* speed up after hitting the mole 10 times
+* speed indicator
 
 **Tools used in this project**
 * Canvas
